@@ -244,5 +244,11 @@
         }
     },
     "minimum-stability": "alpha",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": {
+        "mageworx_packages": {
+            "type": "composer",
+            "url": "https://packages.mageworx.com/"
+        }
+    }
 }
